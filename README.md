@@ -1,6 +1,6 @@
 # Credit Scoring Model 💳
 
-## OpenClassrooms Project 7: Interpretable Machine Learning for Finance
+## Project: Interpretable Machine Learning for Finance
 
 ### 📋 Project Overview
 Development of an interpretable credit scoring model for "Prêt à dépenser", a financial company specializing in consumer loans. The project emphasizes model transparency and fairness while maintaining high predictive performance, featuring a Streamlit dashboard for credit analysts.
@@ -238,8 +238,5 @@ def business_loss(y_true, y_pred):
 - Live demo available at: [URL if deployed]
 - Featured project showcasing interpretable ML
 
-### 🤝 Contact
-Created by Sofiane Derraz as part of the OpenClassrooms AI Engineer certification program.
-
 ---
-*Note: This educational project demonstrates production-ready credit scoring techniques with a focus on interpretability and fairness, essential for financial services applications.*
+*Note: This project demonstrates production-ready credit scoring techniques with a focus on interpretability and fairness, essential for financial services applications.*
