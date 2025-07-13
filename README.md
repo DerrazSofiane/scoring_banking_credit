@@ -234,9 +234,5 @@ def business_loss(y_true, y_pred):
 - Dashboard user guide
 - Fairness report
 
-### 🏆 Recognition
-- Live demo available at: [URL if deployed]
-- Featured project showcasing interpretable ML
-
 ---
 *Note: This project demonstrates production-ready credit scoring techniques with a focus on interpretability and fairness, essential for financial services applications.*
